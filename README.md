@@ -1,1 +1,6 @@
 # matplotlib-challenge
+Pymaceuticals Observations and Insights
+
+* The most effective drug regimens in the study that stood out were Capomulin and Ramicane. They each had an average tumor volume 20%-25% less than that of the other drug regimens, along with lower measures of variance, standard deviation and SEM rates. 
+* Within the Capomulin treatment, each mouse seemed to have a wide degree of variance in regards to the timepoint that the tumor volume decreased. The differing intervals of the tumor volume decline on a mouse by mouse case was noteworthy, as some mice witnessed a more immediate and drastic decrease, while tumors in other mice subsided more subtly or in the later stages of the treatment program. 
+* Within the treatment timepoint for the Capomulin drug regimen, many of the decreasing volumes were followed by a slight immediate uptick in volume during the next incremental measure. Overall, however, the Capomulin drug regimen treatment displayed a consistent and effective tumor treatment across the study.      
